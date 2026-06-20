@@ -97,3 +97,16 @@ int main(){
     cout << l1.head->data << " "<< l1.tail->data;
     return 0;
 }
+/*
+Cache is a small, very fast memory near the CPU that stores recently used data.
+Good cache locality means fewer trips to RAM and faster execution.
+
+Analogy:
+Array/Vector = all ingredients are already laid out on the kitchen counter.
+Linked List = going to the fridge again and again for each ingredient.
+
+Arrays store elements contiguously, giving excellent cache locality and fewer
+cache misses. Linked lists are scattered in memory, causing frequent cache
+misses and slower traversal, even though both are O(n).
+*/
+

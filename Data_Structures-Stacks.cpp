@@ -1,6 +1,6 @@
 // STACKS :
-// STACK IS ALSO KNOWN AS LAST IN 
-// FIRST OUT...
+// STACK IS ALSO KNOWN AS 
+// LAST IN FIRST OUT...
 // STACK HAS 3 IMPORTANT FUNCTION :
 // 1.) push(val) push a new element to top
 // 2.) pop() removes top element
