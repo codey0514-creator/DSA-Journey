@@ -7,6 +7,9 @@ This repository contains my solutions and notes for Data Structures and Algorith
 - LeetCode
 
 ## Topics
+- Stacks
+- Queues
+- Linked List
 - Arrays
 - Binary Search
 - Two Pointers
